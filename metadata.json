@@ -1,5 +1,5 @@
 {
-  "name": "Copy of Gemini Image Studio",
+  "name": "Obrázky generování",
   "description": "An application to generate and edit images using text prompts with Google's Imagen and Gemini models. Create stunning visuals and modify them with simple instructions.",
   "requestFramePermissions": []
 }
